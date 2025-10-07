@@ -8,10 +8,9 @@ This repository contains a curated subset of the ontology-annotated codebook dev
 |---------------------|----------------------------------------------------------------|
 | Theme               | Data domain (e.g., Demographics)                               |
 | Subdomain           | Subcategory (e.g., General)                                    |
-| Instrument          | Source instrument (e.g., none, COMPASS-31)                     |
-| Variable_name_CBS   | Original variable name                                        |
+| Instrument          | Source instrument (e.g., COMPASS-31)                           |
 | Variable_label      | Descriptive label (e.g., Date of birth)                        |
-| Standardized_name   | Ontology term with prefix/suffix (e.g., sct_184099003, sct_84229001_sev) |
+| Standardized_name   | Ontology term with prefix/suffix (in format <prefix>_<code>[<suffix>]) |
 | DataType            | Data format (e.g., date, radio buttons)                        |
 
 ## How to Use
