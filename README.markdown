@@ -6,12 +6,12 @@ This repository contains a curated subset of the ontology-annotated codebook dev
 ### Codebook Structure
 | Column              | Description                                                    |
 |---------------------|----------------------------------------------------------------|
-| Theme               | Data domain (e.g., Demographics)                               |
-| Subdomain           | Subcategory (e.g., General)                                    |
-| Instrument          | Source instrument (e.g., COMPASS-31)                           |
-| Variable_label      | Descriptive label (e.g., Date of birth)                        |
+| Theme               | High-level domain                                              |
+| Subdomain           | Specific topic within the theme                                |
+| Instrument          | Questionnaire/tool used to collect the variable                |
+| Variable_label      | Descriptive label                                              |
 | Standardized_name   | Ontology term with prefix/suffix                               |
-| DataType            | Data format (e.g., date, radio buttons)                        |
+| DataType            | Data format                                                    |
 
 ### How to Use
 - Review the codebook to understand metadata structure and ontology mappings
