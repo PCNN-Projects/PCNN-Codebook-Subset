@@ -10,7 +10,7 @@ This repository contains a curated subset of the ontology-annotated codebook dev
 | Subdomain           | Subcategory (e.g., General)                                    |
 | Instrument          | Source instrument (e.g., COMPASS-31)                           |
 | Variable_label      | Descriptive label (e.g., Date of birth)                        |
-| Standardized_name   | Ontology term with prefix/suffix (in format <prefix>_<code>[<suffix>]) |
+| Standardized_name   | Ontology term in format <prefix>_<code>[<suffix>]              |
 | DataType            | Data format (e.g., date, radio buttons)                        |
 
 ## How to Use
