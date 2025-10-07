@@ -1,7 +1,7 @@
 # Ontology-Annotated Codebook Subset for Post-COVID Network Netherlands (PCNN)
 
 ## Description
-This repository contains a curated subset of the ontology-annotated codebook developed for the Post-COVID Network Netherlands (PCNN), as presented in our MIE 2026 paper, "." The workflow harmonizes health data using ontologies (e.g., SNOMED CT, LOINC) and contextual suffixes, supporting FAIR principles. This subset demonstrates semantic mapping of variables and is adaptable to other domains. The codebook contains metadata only, ensuring privacy. Expert review is ongoing.
+This repository contains a curated subset of the ontology-annotated codebook developed for the Post-COVID Network Netherlands (PCNN), as presented in our MIE 2026 paper. The workflow harmonizes health data using ontologies (e.g., SNOMED CT, LOINC) and contextual suffixes, supporting FAIR principles. This subset demonstrates semantic mapping of variables and is adaptable to other domains. The codebook contains metadata only, ensuring privacy. Expert review is ongoing.
 
 ## Codebook Structure
 | Column              | Description                                                    |
@@ -18,11 +18,10 @@ This repository contains a curated subset of the ontology-annotated codebook dev
 - Review the codebook to understand metadata structure and ontology mappings
 - Use as a template for harmonizing your own health data
 - Cite this resource if used in academic work
+
 ## License
 Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) for reuse with attribution.
 
 ## Citation
-Cite as: [Authors]. (2026). A FAIRification Workflow for Semantic Harmonization of Health Data: Application in the Post-COVID Network Netherlands. *MIE 2026 Proceedings*. Codebook DOI: [10.5281/zenodo.XXXXXXX].
+Cite as: [ Hajar Hasannejadasl, Shuxin Zhang, Bianca M. Boxma-de Klerk, Jos Bosch5, Ronald Cornet3, Sander MJ van Kuijk]. (2026). A FAIRification Workflow for Semantic Harmonization of Health Data: Application in the Post-COVID Network Netherlands. *MIE 2026 Proceedings*. Codebook DOI: [10.5281/zenodo.XXXXXXX].
 
-## Contact
-Contact [Your Name] at [your.email@example.com] or ORCID: [Your ORCID ID].
