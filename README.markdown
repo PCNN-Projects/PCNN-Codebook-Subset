@@ -22,5 +22,5 @@ This repository contains a curated subset of the ontology-annotated codebook dev
 Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) for reuse with attribution.
 
 ### Citation
-Cite as: [ Hajar Hasannejadasl, Shuxin Zhang, Bianca M. Boxma-de Klerk, Jos Bosch, Ronald Cornet, Sander MJ van Kuijk]. (2026). A FAIRification Workflow for Semantic Harmonization of Health Data: Application in the Post-COVID Network Netherlands. *MIE 2026 Proceedings*. Codebook DOI: [10.5281/zenodo.XXXXXXX].
+Cite as: [ Hajar Hasannejadasl, Shuxin Zhang, Bianca M. Boxma-de Klerk, Jos Bosch, Ronald Cornet, Sander MJ van Kuijk]. (2026). A FAIRification Workflow for Semantic Harmonization of Health Data: Application in the Post-COVID Network Netherlands. *MIE 2026 Proceedings*. 
 
